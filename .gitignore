@@ -41,3 +41,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ensure credentials file is not tracked
+lib/github_oauth_credentials.dart
